@@ -1,0 +1,26 @@
+[
+    {
+        "name": "avin",
+        "age": "26",
+        "email": "avin@gmail.com",
+        "pin": "3020",
+        "accountNum": "W6%T67f4",
+        "balance": 1000
+    },
+    {
+        "name": "tom",
+        "age": 24,
+        "email": "tom@gmail.com",
+        "pin": 1020,
+        "accountNum": "A#N6980c",
+        "balance": 0
+    },
+    {
+        "name": "avinash",
+        "age": 20,
+        "email": "avinash@gmail.com",
+        "pin": "1234",
+        "accountNum": "S&5926NH",
+        "balance": 500
+    }
+]
