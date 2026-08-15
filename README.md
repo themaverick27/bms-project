@@ -107,9 +107,3 @@ Start Application
 This project is intended for **learning Python and OOP**, not for real banking use.
 
 ---
-
-## 👨‍💻 Author
-
-**Aniwesh Kumar**
-
-Built as a Python OOP learning project.
